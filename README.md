@@ -52,7 +52,7 @@ Research on Tensor Ring decomposition and low-rank tensor models for large-scale
 - Low-rank Modeling
 - Recommendation Systems
 
-> Repository in preparation.
+🔗 [View Project](https://github.com/ssssalan/tensor-ring-recommender)
 
 ---
 
