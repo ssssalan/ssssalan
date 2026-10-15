@@ -41,20 +41,6 @@ DOI: `10.1109/ISCEIC67854.2025.11405719`
 
 ---
 
-### 🔗 Tensor Ring for Recommendation Systems
-
-Research on Tensor Ring decomposition and low-rank tensor models for large-scale recommendation and tensor completion.
-
-- Tensor Ring Decomposition
-- Tensor Completion
-- PyTorch
-- CUDA
-- Low-rank Modeling
-- Recommendation Systems
-
-🔗 [View Project](https://github.com/ssssalan/tensor-ring-recommender)
-
----
 
 ### 📊 Recommendation System Benchmarks
 
